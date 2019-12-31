@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Sudoku" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0a42653-2484-4211-935f-8765b79d76d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VQkQPCQMqtTtoTBW60P73nWZgl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="E:/Android_SDK" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.CmdInterface">
+    <configuration name="CmdInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CmdInterface" />
+      <module name="Sudoku" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Sudoku" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CmdInterface" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="2" Folder0="C:\Users\lukas\Documents\german" Folder1="C:\Users\lukas\Documents\german" CustomDictionaries="2" CustomDictionary0="C:\Users\lukas\Documents\german\german.dic" CustomDictionary1="C:\Users\lukas\Documents\german\variants.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0a42653-2484-4211-935f-8765b79d76d3" name="Default Changelist" comment="" />
+      <created>1577192690602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577192690602</updated>
+      <workItem from="1577192694298" duration="7385000" />
+      <workItem from="1577355512144" duration="2198000" />
+      <workItem from="1577446125780" duration="8173000" />
+      <workItem from="1577628867439" duration="95000" />
+      <workItem from="1577630130763" duration="1230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="268" key="#Notifications" timestamp="1577355530292">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state x="536" y="268" key="#Notifications/63.0.1760.1215@63.0.1760.1215" timestamp="1577355530292" />
+    <state x="749" y="319" key="#com.intellij.ide.util.MemberChooser" timestamp="1577195242711">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state x="749" y="319" key="#com.intellij.ide.util.MemberChooser/63.0.1760.1215@63.0.1760.1215" timestamp="1577195242711" />
+    <state x="702" y="461" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577486475617">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state x="702" y="461" key="#com.intellij.ide.util.TreeClassChooserDialog/63.0.1760.1215@63.0.1760.1215" timestamp="1577486475617" />
+    <state x="704" y="480" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577485265786">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state x="704" y="480" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/63.0.1760.1215@63.0.1760.1215" timestamp="1577485265786" />
+    <state x="752" y="419" key="FileChooserDialogImpl" timestamp="1577486581675">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state x="752" y="419" key="FileChooserDialogImpl/63.0.1760.1215@63.0.1760.1215" timestamp="1577486581675" />
+    <state width="1739" height="579" key="GridCell.Tab.0.bottom" timestamp="1577486922996">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state width="1739" height="579" key="GridCell.Tab.0.bottom/63.0.1760.1215@63.0.1760.1215" timestamp="1577486922996" />
+    <state width="1739" height="579" key="GridCell.Tab.0.center" timestamp="1577486922996">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state width="1739" height="579" key="GridCell.Tab.0.center/63.0.1760.1215@63.0.1760.1215" timestamp="1577486922996" />
+    <state width="1739" height="579" key="GridCell.Tab.0.left" timestamp="1577486922996">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state width="1739" height="579" key="GridCell.Tab.0.left/63.0.1760.1215@63.0.1760.1215" timestamp="1577486922996" />
+    <state width="1739" height="579" key="GridCell.Tab.0.right" timestamp="1577486922996">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state width="1739" height="579" key="GridCell.Tab.0.right/63.0.1760.1215@63.0.1760.1215" timestamp="1577486922996" />
+    <state width="1739" height="579" key="GridCell.Tab.1.bottom" timestamp="1577486922996">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state width="1739" height="579" key="GridCell.Tab.1.bottom/63.0.1760.1215@63.0.1760.1215" timestamp="1577486922996" />
+    <state width="1739" height="579" key="GridCell.Tab.1.center" timestamp="1577486922996">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state width="1739" height="579" key="GridCell.Tab.1.center/63.0.1760.1215@63.0.1760.1215" timestamp="1577486922996" />
+    <state width="1739" height="579" key="GridCell.Tab.1.left" timestamp="1577486922996">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state width="1739" height="579" key="GridCell.Tab.1.left/63.0.1760.1215@63.0.1760.1215" timestamp="1577486922996" />
+    <state width="1739" height="579" key="GridCell.Tab.1.right" timestamp="1577486922996">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state width="1739" height="579" key="GridCell.Tab.1.right/63.0.1760.1215@63.0.1760.1215" timestamp="1577486922996" />
+    <state x="452" y="252" key="SettingsEditor" timestamp="1577486639655">
+      <screen x="63" y="0" width="1760" height="1215" />
+    </state>
+    <state x="452" y="252" key="SettingsEditor/63.0.1760.1215@63.0.1760.1215" timestamp="1577486639655" />
+  </component>
+</project>
