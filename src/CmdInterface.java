@@ -53,6 +53,7 @@ public class CmdInterface {
           System.out.println(String.format("%s is not a valid input. (Use %d for empty Cells)", s, Sudoku.EMPTY_CELL));
         }
       }else if (line.equals("exit")) System.exit(1);
+      else if (line.equals("help")) System.out.println("Use either 'gen', 'set', 'solve', 'dump', or 'exit'.");
       else System.out.println(String.format("%s is not a valid Command. Use either 'gen', 'set', 'solve', 'dump', or 'exit'.", line));
       System.out.print(">>> ");
     }
